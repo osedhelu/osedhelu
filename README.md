@@ -34,24 +34,7 @@ Actualmente, estoy desarrollando aplicaciones Android con tecnologías como Kotl
 
 ## Diagrama de Tiempo 📊
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-```mermaid
-graph TD; 
-    A[Ardecon 🏢🇨🇴]-->B[Yafuz Game 🎮🇨🇴]; 
-    B-->C[DIs-Global 🏢🇨🇴];
-    C-->D[Proyectos Actuales 🚀]; 
-    A--|2019-05|-->E[Desarrollo de sistema y página ecommerce 💻]; 
-    B--|2021-07|-->F[Desarrollo de criptomoneda y smart contracts 💰]; 
-    C--|2022-12|-->G[Desarrollo de aplicación y microservicios 🔄];
-    D--|2023-11|-->H[Desarrollo de aplicaciones Android 📱];
-```
+[![hola](https://mermaid.ink/img/pako:eNp1kjFv1DAUx7_Kk-fL6ZxckrsMla4NHAxISLDQpIOx3atFbEeOg7heTmJAYqNSYepSwcSEQHTr2C_Uj8BLaEV1EoMly___-_n__Lwh3ApJMrJyrD6BlzmUBgAWxcIJya2B28uzb7eXH7_jujqCINiD_eIVO25PYcm0RPnTj3_yULs_uA6K_GkTLCv7mlU7kMF1MLjy4rmza8m9bWDBfcsq2aD74v2da9G7unBC58Ek7uBRkcuGOWeryoKQ0KjGS81gDfXN15UyDDCz1tLxPtn59cNESAlpMEk7eLxD4U7V3mprpOhRjWbOA_buHeO-j3P-82HoHhQGNOxguQNidaU44-rmt0GOVtzZRrq3iivbY758uMPk95gooLSDJ__BYCB8FSOcVQLLP_86IiOCzWmmBE5s07NK4k-kliXJcCuYe1OS0mzRx1pvX6wNJ5l3rRyRthbMy1wxHLS-P5RCeeue_f0B2PGxWmFpzQzJNuQdyZJ0HIZRFMYzmk7DdB6NyJpkNB7P0mgSJ3FC58k8iabbETm1FrF0TKfJtHen6SxGNR1wh4PY37n9A8rw2FA?type=png)](https://mermaid.live/edit#pako:eNp1kjFv1DAUx7_Kk-fL6ZxckrsMla4NHAxISLDQpIOx3atFbEeOg7heTmJAYqNSYepSwcSEQHTr2C_Uj8BLaEV1EoMly___-_n__Lwh3ApJMrJyrD6BlzmUBgAWxcIJya2B28uzb7eXH7_jujqCINiD_eIVO25PYcm0RPnTj3_yULs_uA6K_GkTLCv7mlU7kMF1MLjy4rmza8m9bWDBfcsq2aD74v2da9G7unBC58Ek7uBRkcuGOWeryoKQ0KjGS81gDfXN15UyDDCz1tLxPtn59cNESAlpMEk7eLxD4U7V3mprpOhRjWbOA_buHeO-j3P-82HoHhQGNOxguQNidaU44-rmt0GOVtzZRrq3iivbY758uMPk95gooLSDJ__BYCB8FSOcVQLLP_86IiOCzWmmBE5s07NK4k-kliXJcCuYe1OS0mzRx1pvX6wNJ5l3rRyRthbMy1wxHLS-P5RCeeue_f0B2PGxWmFpzQzJNuQdyZJ0HIZRFMYzmk7DdB6NyJpkNB7P0mgSJ3FC58k8iabbETm1FrF0TKfJtHen6SxGNR1wh4PY37n9A8rw2FA)
 
 ## una de mis paciones es la Arquiectura hexagonal
 
