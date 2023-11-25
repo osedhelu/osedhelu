@@ -103,3 +103,12 @@ Ya tienes un servicio API REST. Lo más importante es la estructura de archivos 
 ```
 
 Cada vez que creas un nuevo directorio dentro de la carpeta app, se generará automáticamente la estructura de la arquitectura hexagonal e implementará la inyección de dependencias. 😄
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
