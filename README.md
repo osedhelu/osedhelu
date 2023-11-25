@@ -44,13 +44,13 @@ graph TD;
 
 ```mermaid
 graph TD; 
-    A[Ardecon 🏢🇨🇴] --> B[Yafuz Game 🎮🇨🇴]; 
-    B --> C[DIs-Global 🏢🇨🇴];
-    C --> D[Proyectos Actuales 🚀]; 
-    A -->|2019-05| E[Desarrollo de sistema y página ecommerce 💻]; 
-    B -->|2021-07| F[Desarrollo de criptomoneda y smart contracts 💰]; 
-    C -->|2022-12| G[Desarrollo de aplicación y microservicios 🔄];
-    D -->|2023-11| H[Desarrollo de aplicaciones Android 📱];
+    A[Ardecon 🏢🇨🇴]-->B[Yafuz Game 🎮🇨🇴]; 
+    B-->C[DIs-Global 🏢🇨🇴];
+    C-->D[Proyectos Actuales 🚀]; 
+    A--|2019-05|-->E[Desarrollo de sistema y página ecommerce 💻]; 
+    B--|2021-07|-->F[Desarrollo de criptomoneda y smart contracts 💰]; 
+    C--|2022-12|-->G[Desarrollo de aplicación y microservicios 🔄];
+    D--|2023-11|-->H[Desarrollo de aplicaciones Android 📱];
 ```
 
 ## una de mis paciones es la Arquiectura hexagonal
