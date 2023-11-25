@@ -61,14 +61,12 @@ graph LR
     AD --> PS[🔌 Puertos de Salida]
     PS --> R[📤 Repositorios]
     PS --> SE[📤 Servicios Externos]
-
 ```
 
 Tengo una biblioteca que nos permite iniciar un proyecto backend. 😊 Utilizo bun y con tan solo ejecutar el siguiente comando:
 
 ```bash
 bunx osedhelu project-backend
-
 ```
 
 Ya tienes un servicio API REST. Lo más importante es la estructura de archivos y carpetas que se genera:
