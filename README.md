@@ -38,20 +38,7 @@ Actualmente, estoy desarrollando aplicaciones Android con tecnologías como Kotl
 
 ## una de mis paciones es la Arquiectura hexagonal
 
-```mermaid
-graph LR
-    A[📦 Aplicación] --> C[🔺 Controladores]
-    C --> UI[📱 Interfaz de Usuario]
-    A --> CU[🔺 Casos de Uso]
-    CU --> RN[📚 Reglas de Negocio]
-    A --> AD[🔺 Adaptadores]
-    AD --> PE[🔌 Puertos de Entrada]
-    PE --> API[📥 Controladores de API]
-    PE --> UI2[📥 Controladores de Interfaz de Usuario]
-    AD --> PS[🔌 Puertos de Salida]
-    PS --> R[📤 Repositorios]
-    PS --> SE[📤 Servicios Externos]
-```
+[![hexagonal](https://mermaid.ink/img/pako:eNp9kr9OwzAQh1_FujlU-dekzYAUtRkqQVU1ygLpcIpNiUjjyHFQoeobsMHEwgLsiI2VF-IRcOIiVBB4iuzvPv8uvg1knDIIYCmwOidH87QkaoWnHw-3zySsijzDLH9_LRfk4OCQjNT-3RsZ8VIKXiDlgtULXTLqgGTSVr6QSSmZOMNrQhlJ6gZFzndcqEXJzoQ1rzX0BYySjphPW9M9mbNlgR0yZUue_fCEY-0JKVZyL0847oBZ1AI3ZNYwIfVVkQqPFHfcLNKiWZf8ab-3Flcn-2gysf9A_-l6lyb-lSbGIv8OE-veW_-jar3idS650tT7QBxpImbiMlf_pCbRWl1dKg4MWDGxwpyqV920VSnIc7ZiKQTqk6K4SCEtt4rDRvL4qswgkKJhBjQVRcnGOaphWEFwhkWtdhltIxzrMemmxYAKSwg2sIbA6vs93_Rsy3Jc17RN24ArCPqDnun2PdvxB55jur6_NeCacyU1e0NnaA4cb9h3Lcsb2J3spDtrU2w_AWlo2wQ?type=png)](https://mermaid.live/edit#pako:eNp9kr9OwzAQh1_FujlU-dekzYAUtRkqQVU1ygLpcIpNiUjjyHFQoeobsMHEwgLsiI2VF-IRcOIiVBB4iuzvPv8uvg1knDIIYCmwOidH87QkaoWnHw-3zySsijzDLH9_LRfk4OCQjNT-3RsZ8VIKXiDlgtULXTLqgGTSVr6QSSmZOMNrQhlJ6gZFzndcqEXJzoQ1rzX0BYySjphPW9M9mbNlgR0yZUue_fCEY-0JKVZyL0847oBZ1AI3ZNYwIfVVkQqPFHfcLNKiWZf8ab-3Flcn-2gysf9A_-l6lyb-lSbGIv8OE-veW_-jar3idS650tT7QBxpImbiMlf_pCbRWl1dKg4MWDGxwpyqV920VSnIc7ZiKQTqk6K4SCEtt4rDRvL4qswgkKJhBjQVRcnGOaphWEFwhkWtdhltIxzrMemmxYAKSwg2sIbA6vs93_Rsy3Jc17RN24ArCPqDnun2PdvxB55jur6_NeCacyU1e0NnaA4cb9h3Lcsb2J3spDtrU2w_AWlo2wQ)
 
 Tengo una biblioteca que nos permite iniciar un proyecto backend. 😊 Utilizo bun y con tan solo ejecutar el siguiente comando:
 
