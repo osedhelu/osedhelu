@@ -35,15 +35,22 @@ Actualmente, estoy desarrollando aplicaciones Android con tecnologías como Kotl
 ## Diagrama de Tiempo 📊
 
 ```mermaid
-graph TD 
-   A[Ardecon 🏢🇨🇴] --> B[Yafuz Game 🎮🇨🇴] 
-   B --> C[DIs-Global 🏢🇨🇴] 
-   C --> D[Proyectos Actuales 🚀] 
-   A -->|2019-05| E[Desarrollo de sistema y página ecommerce 💻] 
-   B -->|2021-07| F[Desarrollo de criptomoneda y smart contracts 💰] 
-   C -->|2022-12| G[Desarrollo de aplicación y microservicios 🔄] 
-   D -->|2023-11| H[Desarrollo de aplicaciones Android 📱]
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
+```mermaid
+graph TD; 
+    A[Ardecon 🏢🇨🇴] --> B[Yafuz Game 🎮🇨🇴]; 
+    B --> C[DIs-Global 🏢🇨🇴];
+    C --> D[Proyectos Actuales 🚀]; 
+    A -->|2019-05| E[Desarrollo de sistema y página ecommerce 💻]; 
+    B -->|2021-07| F[Desarrollo de criptomoneda y smart contracts 💰]; 
+    C -->|2022-12| G[Desarrollo de aplicación y microservicios 🔄];
+    D -->|2023-11| H[Desarrollo de aplicaciones Android 📱];
 ```
 
 ## una de mis paciones es la Arquiectura hexagonal
@@ -104,11 +111,3 @@ Ya tienes un servicio API REST. Lo más importante es la estructura de archivos 
 
 Cada vez que creas un nuevo directorio dentro de la carpeta app, se generará automáticamente la estructura de la arquitectura hexagonal e implementará la inyección de dependencias. 😄
 Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
