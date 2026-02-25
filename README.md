@@ -1,83 +1,136 @@
-# Oscar Herrera 👨‍💻🇨🇴🇨🇴
+# Oscar Eduardo Herrera Lugo
 
-Soy Oscar Herrera, un desarrollador Full Stack con nacionalidad venezolana y colombiana. He estudiado en el SENA un Tecnólogo en Análisis y Desarrollo de Sistemas de Información y actualmente estoy estudiando la Ingeniería en Software.
+**Full Stack Developer**  
+Barranquilla, Colombia (GMT-5)  
+Tel: (+57) 301 798 2676  
+Email: osedhelu@gmail.com  
+LinkedIn: https://www.linkedin.com/in/osedhelu/  
+GitHub: https://github.com/osedhelu
 
-# Contacto 📞📧
+---
 
-Si tienes alguna pregunta o simplemente quieres contactarme, aquí te dejo mis datos:
+## Resumen profesional
 
-- Teléfono: +573017982676 📞
-- WhatsApp: +573017982676 📱
-- Email: <osedhelu@gmail.com> 📧
-- LinkedIn: [osedhelu](https://www.linkedin.com/in/osedhelu/) 🔗
-- Facebook: [osedhelu](https://www.facebook.com/osedhelu) 🔗
+Soy un desarrollador full stack con más de 6 años de experiencia en el desarrollo de aplicaciones móviles, web y soluciones basadas en Machine Learning. He liderado proyectos que optimizan procesos internos, aceleran tiempos de desarrollo y reducen costos mediante microservicios, además de implementar modelos de Machine Learning para mejorar la toma de decisiones empresariales.
 
-¡Espero escuchar de ti pronto! 😊
+---
 
-## Experiencia Profesional 💼
+## Experiencia laboral
 
-### Ardecon 🏢🇨🇴
+### Disglobal — Full Stack Developer  
+**Junio 2022 – Actualidad**  
+Empresa dedicada a la venta de artículos electrónicos para diferentes bancos en Venezuela.
 
-Desarrollé un sistema para la organización de la empresa y una página ecommerce para que la empresa vendiera sus artículos. Trabajé en esta empresa durante más de 2 años utilizando tecnologías como React, Node.js, TypeScript, SQL Server, Express, Nest.js, Next.js.
+- Aceleré el tiempo de desarrollo en un 70% mediante la creación de aplicaciones móviles con Android para la sincronización de dispositivos POS (Point of Sale).
+- Reduje un 90% los recursos humanos necesarios para sincronizar dispositivos POS al implementar microservicios para la sincronización automática en centros comerciales.
+- Implementé un formulario de autoinstalación de dispositivos POS, disminuyendo significativamente el tiempo de configuración por parte de los clientes.
+- Diseñé y desarrollé aplicaciones multiplataforma con Flutter, optimizando el tiempo de desarrollo en un 25%.
+- Creé una wallet de criptomonedas, integrando funcionalidades de seguridad avanzada y transacciones en tiempo real.
 
-### Yafuz Game 🎮🇨🇴
+**Tecnologías:** Kotlin, Android, Nest.js, Python, Next.js, Django, RabbitMQ, Solidity, MySQL, Flutter.
 
-Desarrollé una criptomoneda llamada Yaz y una empresa llamada Yafuz Game. Logramos implementar y desarrollar smart contracts para NFT, la criptomoneda, y logramos tener un capital de 10.000 USDT en menos de 3 meses.
+---
 
-### DIs-Global 🏢🇨🇴
+### Extreme Technologies — Desarrollador Full Stack (Backend Focus)  
+**Noviembre 2025 – Presente**  
+Barranquilla, Colombia.
 
-Desarrollé una aplicación utilizando tecnologías como Node.js, Bun, Solidity, Web3, React, Astro para la aplicación o dashboard, Next.js para la página principal. Implementé una arquitectura en microservicios donde teníamos un servicio en Django, Node.js, Elixir, Ether.js.
+- Contribuyo al mantenimiento y modernización de aplicaciones empresariales, migrando sistemas legacy a tecnologías modernas y escalables.
+- Lideré la migración completa de 2 servicios backend legacy (Java + Payara + JWT) a Spring Boot, mejorando el rendimiento, mantenibilidad y reduciendo costos operativos.
+- Desarrollé y mantuve aplicaciones móviles nativas con Android (Java/Kotlin) e híbridas con Flutter, integrando con APIs RESTful.
+- Colaboré en la arquitectura de backend, implementando autenticación segura y migrando sistemas de autorización basados en JWT.
+- Trabajé en un entorno ágil, coordinándome con equipos multidisciplinarios para la entrega continua.
 
-## Proyectos Actuales 🚀
+**Tecnologías:** Spring Boot, Java, Android, Flutter, JWT, REST APIs, Git, Microservicios.
 
-Actualmente, estoy desarrollando aplicaciones Android con tecnologías como Kotlin, Jetpack Compose. He desarrollado 3 microservicios en Node.js y Django, Socket.io.
+---
 
-## Diagrama de Tiempo 📊
+### Legger — Full Stack Developer  
+**Febrero 2024 – Octubre 2024**  
+Empresa enfocada en soluciones tecnológicas innovadoras en Colombia.
 
-[![hola](https://mermaid.ink/img/pako:eNp1kjFv1DAUx7_Kk-fL6ZxckrsMla4NHAxISLDQpIOx3atFbEeOg7heTmJAYqNSYepSwcSEQHTr2C_Uj8BLaEV1EoMly___-_n__Lwh3ApJMrJyrD6BlzmUBgAWxcIJya2B28uzb7eXH7_jujqCINiD_eIVO25PYcm0RPnTj3_yULs_uA6K_GkTLCv7mlU7kMF1MLjy4rmza8m9bWDBfcsq2aD74v2da9G7unBC58Ek7uBRkcuGOWeryoKQ0KjGS81gDfXN15UyDDCz1tLxPtn59cNESAlpMEk7eLxD4U7V3mprpOhRjWbOA_buHeO-j3P-82HoHhQGNOxguQNidaU44-rmt0GOVtzZRrq3iivbY758uMPk95gooLSDJ__BYCB8FSOcVQLLP_86IiOCzWmmBE5s07NK4k-kliXJcCuYe1OS0mzRx1pvX6wNJ5l3rRyRthbMy1wxHLS-P5RCeeue_f0B2PGxWmFpzQzJNuQdyZJ0HIZRFMYzmk7DdB6NyJpkNB7P0mgSJ3FC58k8iabbETm1FrF0TKfJtHen6SxGNR1wh4PY37n9A8rw2FA?type=png)](https://mermaid.live/edit#pako:eNp1kjFv1DAUx7_Kk-fL6ZxckrsMla4NHAxISLDQpIOx3atFbEeOg7heTmJAYqNSYepSwcSEQHTr2C_Uj8BLaEV1EoMly___-_n__Lwh3ApJMrJyrD6BlzmUBgAWxcIJya2B28uzb7eXH7_jujqCINiD_eIVO25PYcm0RPnTj3_yULs_uA6K_GkTLCv7mlU7kMF1MLjy4rmza8m9bWDBfcsq2aD74v2da9G7unBC58Ek7uBRkcuGOWeryoKQ0KjGS81gDfXN15UyDDCz1tLxPtn59cNESAlpMEk7eLxD4U7V3mprpOhRjWbOA_buHeO-j3P-82HoHhQGNOxguQNidaU44-rmt0GOVtzZRrq3iivbY758uMPk95gooLSDJ__BYCB8FSOcVQLLP_86IiOCzWmmBE5s07NK4k-kliXJcCuYe1OS0mzRx1pvX6wNJ5l3rRyRthbMy1wxHLS-P5RCeeue_f0B2PGxWmFpzQzJNuQdyZJ0HIZRFMYzmk7DdB6NyJpkNB7P0mgSJ3FC58k8iabbETm1FrF0TKfJtHen6SxGNR1wh4PY37n9A8rw2FA)
+- Implementé aplicaciones multiplataforma con Flutter, mejorando la experiencia del usuario y reduciendo un 30% los tiempos de desarrollo.
+- Optimicé la usabilidad y el rendimiento de portales web para Colsubsidio con Next.js, incrementando su eficiencia en un 20%.
+- Diseñé soluciones de Machine Learning y análisis de datos para Constructora Bolívar con NumPy, Pandas y TensorFlow, mejorando la toma de decisiones estratégicas en un 15%.
+- Implementé scripts con Django y Pandas para reducir el tiempo de análisis de datos en un 40%.
+- Lideré el desarrollo del 80% de una plataforma e-learning para la venta de cursos online, incrementando las ventas en un 35%.
 
-## una de mis paciones es la Arquiectura hexagonal
+**Tecnologías:** Flutter, Next.js, Node.js, Python, Django, TensorFlow.
 
-[![hexagonal](https://mermaid.ink/img/pako:eNp9kr9OwzAQh1_FujlU-dekzYAUtRkqQVU1ygLpcIpNiUjjyHFQoeobsMHEwgLsiI2VF-IRcOIiVBB4iuzvPv8uvg1knDIIYCmwOidH87QkaoWnHw-3zySsijzDLH9_LRfk4OCQjNT-3RsZ8VIKXiDlgtULXTLqgGTSVr6QSSmZOMNrQhlJ6gZFzndcqEXJzoQ1rzX0BYySjphPW9M9mbNlgR0yZUue_fCEY-0JKVZyL0847oBZ1AI3ZNYwIfVVkQqPFHfcLNKiWZf8ab-3Flcn-2gysf9A_-l6lyb-lSbGIv8OE-veW_-jar3idS650tT7QBxpImbiMlf_pCbRWl1dKg4MWDGxwpyqV920VSnIc7ZiKQTqk6K4SCEtt4rDRvL4qswgkKJhBjQVRcnGOaphWEFwhkWtdhltIxzrMemmxYAKSwg2sIbA6vs93_Rsy3Jc17RN24ArCPqDnun2PdvxB55jur6_NeCacyU1e0NnaA4cb9h3Lcsb2J3spDtrU2w_AWlo2wQ?type=png)](https://mermaid.live/edit#pako:eNp9kr9OwzAQh1_FujlU-dekzYAUtRkqQVU1ygLpcIpNiUjjyHFQoeobsMHEwgLsiI2VF-IRcOIiVBB4iuzvPv8uvg1knDIIYCmwOidH87QkaoWnHw-3zySsijzDLH9_LRfk4OCQjNT-3RsZ8VIKXiDlgtULXTLqgGTSVr6QSSmZOMNrQhlJ6gZFzndcqEXJzoQ1rzX0BYySjphPW9M9mbNlgR0yZUue_fCEY-0JKVZyL0847oBZ1AI3ZNYwIfVVkQqPFHfcLNKiWZf8ab-3Flcn-2gysf9A_-l6lyb-lSbGIv8OE-veW_-jar3idS650tT7QBxpImbiMlf_pCbRWl1dKg4MWDGxwpyqV920VSnIc7ZiKQTqk6K4SCEtt4rDRvL4qswgkKJhBjQVRcnGOaphWEFwhkWtdhltIxzrMemmxYAKSwg2sIbA6vs93_Rsy3Jc17RN24ArCPqDnun2PdvxB55jur6_NeCacyU1e0NnaA4cb9h3Lcsb2J3spDtrU2w_AWlo2wQ)
+---
 
-Tengo una biblioteca que nos permite iniciar un proyecto backend. 😊 Utilizo bun y con tan solo ejecutar el siguiente comando:
+### Legendarium — Blockchain Developer  
+**Febrero 2022 – Julio 2022**
 
-```bash
-bunx osedhelu project-backend
-```
+- Implementé microservicios para mejorar la gestión de la tienda virtual y reducir tiempos de respuesta.
+- Desarrollé Smart Contracts para un mercado NFT, incluyendo creación de tokens y sistema de pagos con tarjeta de crédito.
+- Mejoré en un 70% el tiempo de respuesta de las peticiones REST mediante RabbitMQ y arquitectura hexagonal.
 
-Ya tienes un servicio API REST. Lo más importante es la estructura de archivos y carpetas que se genera:
+**Tecnologías:** Docker, RabbitMQ, Node.js, MongoDB, Express, React, Solidity.
 
-```
-📁 src
-├── 📁 app
-│   └── 📁 user
-│       ├── 📁 application
-│       │   └── user.create.ts
-│       ├── 📁 domain
-│       │   └── userRepositoryImpl.ts
-│       ├── 📁 infrastructure
-│       │   ├── 📁 controllers
-│       │   │   └── user.ctrl.ts
-│       │   ├── 📁 repository
-│       │   │   └── user.repository.ts
-│       │   └── router.ts
-│       └── user.module.ts
-├── ioc.repository.ts
-├── main.ts
-└── 📁 utils
-    ├── insertImports.ts
-    ├── service-dir-arq-hexagonal.ts
-    ├── 📁 templates
-    │   ├── creator.template.ts
-    │   ├── ctrl.template.ts
-    │   ├── module.template.ts
-    │   ├── repository.template.ts
-    │   ├── repositoryImpl.template.ts
-    │   └── router.tmp.ts
-    └── text.utils.ts
+---
 
-```
+### Ardecon — Full Stack Developer  
+**Julio 2019 – Junio 2021**
 
-Cada vez que creas un nuevo directorio dentro de la carpeta app, se generará automáticamente la estructura de la arquitectura hexagonal e implementará la inyección de dependencias. 😄
-Here is a simple flow chart:
+- Creé una página web para la compra y venta de productos de la empresa, centralizando las ventas y evitando la tercerización.
+- Optimicé la utilización de recursos mediante una plataforma que calcula el tiempo de fabricación de artículos y visualiza gráficas de recursos y costos por producto.
+
+**Tecnologías:** Angular, Nest.js, Docker, Docker Compose, Next.js, React, Python, SQL Server.
+
+---
+
+## Proyectos destacados
+
+### Yafuzgame — Full Stack Developer  
+**Junio 2021 – Julio 2022**  
+URL: https://presale.yafuzgame.io
+
+- Logré un capital de 100 M USD mediante el desarrollo de un juego NFT junto a un equipo de abogados.
+- Desarrollé el token YAZ e inyecté 5 000 USD de liquidez.
+- Implementé microservicios para aislar base de datos, carga de imágenes y WebSockets para respuestas en tiempo real.
+
+**Stack:** Solidity, Web3, Nest.js, Docker, AWS, Next.js.
+
+---
+
+## Habilidades técnicas
+
+| Categoría | Nivel | Tecnologías |
+|-----------|--------|-------------|
+| **Lenguajes** | Avanzado | Node.js, Kotlin, Python |
+| | Intermedio | Solidity, Java |
+| **Backend** | Avanzado | Nest.js, Django, Express, Elysia, Strapi |
+| **Frontend** | Avanzado | Next.js, React, Angular, Astro.js |
+| **Móvil** | Avanzado | Android (Kotlin, Java), Jetpack Compose, Flutter |
+| **Blockchain** | Intermedio | Solidity, Web3, ethers.js, MetaMask |
+| **Bases de datos** | Avanzado | MongoDB |
+| | Intermedio | MySQL, SQL Server, PostgreSQL |
+| **Herramientas** | | Git, Jira, Slack, Docker, Docker Compose |
+
+---
+
+## Educación
+
+- **Politécnico Grancolombiano** — Barranquilla, Colombia  
+  Ingeniería en Software — Noviembre 2023
+
+- **SENA** — Barranquilla, Colombia  
+  Análisis y desarrollo de sistemas de información — Octubre 2019
+
+---
+
+## Certificaciones
+
+- Udemy — Android Avanzado con Kotlin – Nivel Super Saiyajin — 2022
+- Udemy — Programación de aplicaciones para Android con Kotlin — 2022
+- Udemy — Curso de desarrollo de videojuegos NFT de la A a la Z — 2021
+- Udemy — Django REST Framework de cero a experto — 2021
+- Udemy — Next.js: el framework de React para producción — 2021
+
+---
+
+## Idiomas
+
+- **Español** — Nativo  
+- **Inglés** — Básico
