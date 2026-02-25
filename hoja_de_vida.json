@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Oscar Eduardo Herrera Lugo",
+  "jobTitle": "Full Stack Developer",
+  "birthDate": "1995-03-01",
+  "nationality": { "@type": "Country", "name": "Colombia" },
+  "email": "osedhelu@gmail.com",
+  "telephone": "+57-301-798-2676",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle 3 1#3-545",
+    "addressLocality": "Polo Nuevo",
+    "addressRegion": "Atlántico",
+    "postalCode": "082040",
+    "addressCountry": "CO"
+  },
+  "url": "https://www.linkedin.com/in/osedhelu/",
+  "sameAs": [
+    "https://www.linkedin.com/in/osedhelu/",
+    "https://github.com/osedhelu"
+  ],
+  "description": "Full Stack Developer con más de 6 años de experiencia en aplicaciones móviles, web y Machine Learning. Colombiano. Experiencia en microservicios, Android, Flutter, Nest.js, Python, Django, Next.js, blockchain y Spring Boot. Disponible para viajar y para cambio de residencia.",
+  "identifier": { "@type": "PropertyValue", "propertyID": "Cédula de ciudadanía", "value": "1127579854" },
+  "jobLocation": { "@type": "Place", "address": { "@type": "PostalAddress", "addressLocality": "Polo Nuevo", "addressRegion": "Atlántico", "addressCountry": "CO" } },
+  "disponibleParaViajar": true,
+  "disponibleCambioResidencia": true,
+  "knowsAbout": [
+    "Backend development",
+    "Frontend development",
+    "Android development",
+    "Blockchain development",
+    "Node.js",
+    "Kotlin",
+    "Python",
+    "Next.js",
+    "Nest.js",
+    "React",
+    "Flutter",
+    "Django",
+    "Solidity",
+    "Spring Boot",
+    "Docker",
+    "MySQL",
+    "MongoDB",
+    "TensorFlow"
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Extreme Technologies",
+      "address": { "@type": "PostalAddress", "addressLocality": "Barranquilla", "addressCountry": "CO" }
+    },
+    {
+      "@type": "Organization",
+      "name": "Disglobal"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Politécnico Grancolombiano",
+      "address": { "@type": "PostalAddress", "addressLocality": "Barranquilla", "addressCountry": "CO" }
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "SENA",
+      "address": { "@type": "PostalAddress", "addressLocality": "Barranquilla", "addressCountry": "CO" }
+    }
+  ],
+  "hasCredential": [
+    { "@type": "EducationalOccupationalCredential", "name": "Ingeniería en Software", "credentialCategory": "degree", "recognizedBy": { "@type": "Organization", "name": "Politécnico Grancolombiano" } },
+    { "@type": "EducationalOccupationalCredential", "name": "Análisis y desarrollo de sistemas de información", "credentialCategory": "degree", "recognizedBy": { "@type": "Organization", "name": "SENA" } },
+    { "@type": "EducationalOccupationalCredential", "name": "Android Avanzado con Kotlin", "recognizedBy": { "@type": "Organization", "name": "Udemy" } },
+    { "@type": "EducationalOccupationalCredential", "name": "Desarrollo de videojuegos NFT", "recognizedBy": { "@type": "Organization", "name": "Udemy" } },
+    { "@type": "EducationalOccupationalCredential", "name": "Django REST Framework", "recognizedBy": { "@type": "Organization", "name": "Udemy" } },
+    { "@type": "EducationalOccupationalCredential", "name": "Next.js: framework de React para producción", "recognizedBy": { "@type": "Organization", "name": "Udemy" } }
+  ],
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "Yafuzgame",
+      "url": "https://presale.yafuzgame.io",
+      "description": "Juego NFT con token YAZ, microservicios, WebSockets y liquidez. Stack: Solidity, Web3, Nest.js, Docker, AWS, Next.js."
+    }
+  ]
+}

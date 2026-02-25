@@ -1,17 +1,30 @@
 # Oscar Eduardo Herrera Lugo
 
 **Full Stack Developer**  
-Barranquilla, Colombia (GMT-5)  
+Nacionalidad: Colombiano  
+Fecha de nacimiento: 01/03/1995 (DD/MM/AAAA)  
+Cédula: 1127579854  
+
+**Contacto**  
 Tel: (+57) 301 798 2676  
 Email: osedhelu@gmail.com  
 LinkedIn: https://www.linkedin.com/in/osedhelu/  
-GitHub: https://github.com/osedhelu
+GitHub: https://github.com/osedhelu  
+
+**Ubicación**  
+Dirección: Calle 3 1#3-545, Polo Nuevo, Atlántico, Colombia  
+Código postal: 082040  
+Zona horaria: GMT-5  
+
+**Disponibilidad**  
+Disponible para viajar: Sí  
+Disponible para cambio de residencia: Sí  
 
 ---
 
 ## Resumen profesional
 
-Soy un desarrollador full stack con más de 6 años de experiencia en el desarrollo de aplicaciones móviles, web y soluciones basadas en Machine Learning. He liderado proyectos que optimizan procesos internos, aceleran tiempos de desarrollo y reducen costos mediante microservicios, además de implementar modelos de Machine Learning para mejorar la toma de decisiones empresariales.
+Full Stack Developer con más de 6 años de experiencia en aplicaciones móviles, web y soluciones con Machine Learning. Colombiano. He liderado proyectos que optimizan procesos internos, aceleran tiempos de desarrollo y reducen costos mediante microservicios, además de implementar modelos de ML para mejorar la toma de decisiones empresariales. Experiencia en Android, Flutter, Nest.js, Python, Django, Next.js, blockchain y Spring Boot. Disponible para viajar y para cambio de residencia.
 
 ---
 

@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Oscar Eduardo Herrera Lugo",
+    "label": "Full Stack Developer",
+    "email": "osedhelu@gmail.com",
+    "phone": "+57 301 798 2676",
+    "birthDate": "1995-03-01",
+    "nationality": "Colombiano",
+    "identification": { "type": "Cédula de ciudadanía", "number": "1127579854" },
+    "location": {
+      "address": "Calle 3 1#3-545, Polo Nuevo, Atlántico",
+      "postalCode": "082040",
+      "city": "Polo Nuevo",
+      "region": "Atlántico",
+      "country": "Colombia",
+      "timezone": "GMT-5"
+    },
+    "profiles": [
+      { "network": "LinkedIn", "username": "osedhelu", "url": "https://www.linkedin.com/in/osedhelu/" },
+      { "network": "GitHub", "username": "osedhelu", "url": "https://github.com/osedhelu" }
+    ],
+    "summary": "Full Stack Developer con más de 6 años de experiencia en aplicaciones móviles, web y Machine Learning. Colombiano. Experiencia en microservicios, Android, Flutter, Nest.js, Python, Django, Next.js, blockchain y Spring Boot. Disponible para viajar y para cambio de residencia."
+  },
+  "availability": {
+    "willingToTravel": true,
+    "willingToRelocate": true
+  },
+  "work": [
+    { "company": "Extreme Technologies", "position": "Desarrollador Full Stack (Backend Focus)", "startDate": "2025-11", "endDate": "Presente", "location": "Barranquilla", "highlights": ["Migración de servicios legacy Java/Payara a Spring Boot", "Apps móviles Android/Flutter y APIs REST", "Autenticación JWT y arquitectura de microservicios"], "keywords": ["Spring Boot", "Java", "Android", "Flutter", "JWT", "REST APIs", "Git"] },
+    { "company": "Disglobal", "position": "Full Stack Developer", "startDate": "2022-06", "endDate": "Presente", "highlights": ["Apps Android para sincronización POS; reducción 70% tiempo de desarrollo", "Microservicios para sincronización automática POS; reducción 90% recursos", "Wallet de criptomonedas y apps Flutter"], "keywords": ["Kotlin", "Android", "Nest.js", "Python", "Next.js", "Django", "RabbitMQ", "Solidity", "MySQL", "Flutter"] },
+    { "company": "Legger", "position": "Full Stack Developer", "startDate": "2024-02", "endDate": "2024-10", "location": "Colombia", "highlights": ["Apps multiplataforma Flutter", "Portales Next.js para Colsubsidio", "Machine Learning con TensorFlow para Constructora Bolívar", "Plataforma e-learning"], "keywords": ["Flutter", "Next.js", "Node.js", "Python", "Django", "TensorFlow"] },
+    { "company": "Legendarium", "position": "Blockchain Developer", "startDate": "2022-02", "endDate": "2022-07", "highlights": ["Microservicios para tienda virtual", "Smart Contracts para mercado NFT"], "keywords": ["Docker", "RabbitMQ", "Node.js", "MongoDB", "Express", "React", "Solidity"] },
+    { "company": "Ardecon", "position": "Full Stack Developer", "startDate": "2019-07", "endDate": "2021-06", "highlights": ["Página web de venta de productos", "Plataforma de gestión con gráficas de recursos y costos"], "keywords": ["Angular", "Nest.js", "Docker", "Next.js", "React", "Python", "SQL Server"] }
+  ],
+  "education": [
+    { "institution": "Politécnico Grancolombiano", "area": "Ingeniería en Software", "studyType": "Grado", "startDate": "", "endDate": "2023-11", "location": "Barranquilla, Colombia" },
+    { "institution": "SENA", "area": "Análisis y desarrollo de sistemas de información", "studyType": "Técnico", "endDate": "2019-10", "location": "Barranquilla, Colombia" }
+  ],
+  "certificates": [
+    { "name": "Android Avanzado con Kotlin – Nivel Super Saiyajin", "issuer": "Udemy", "date": "2022" },
+    { "name": "Programación de aplicaciones para Android con Kotlin", "issuer": "Udemy", "date": "2022" },
+    { "name": "Desarrollo de videojuegos NFT de la A a la Z", "issuer": "Udemy", "date": "2021" },
+    { "name": "Django REST Framework de cero a experto", "issuer": "Udemy", "date": "2021" },
+    { "name": "Next.js: el framework de React para producción", "issuer": "Udemy", "date": "2021" }
+  ],
+  "skills": [
+    { "name": "Lenguajes", "level": "Avanzado", "keywords": ["Node.js", "Kotlin", "Python", "Java", "Solidity"] },
+    { "name": "Backend", "keywords": ["Nest.js", "Django", "Express", "Elysia", "Strapi", "Spring Boot"] },
+    { "name": "Frontend", "keywords": ["Next.js", "React", "Angular", "Astro.js"] },
+    { "name": "Móvil", "keywords": ["Android", "Kotlin", "Jetpack Compose", "Flutter"] },
+    { "name": "Blockchain", "keywords": ["Solidity", "Web3", "ethers.js", "MetaMask"] },
+    { "name": "Bases de datos", "keywords": ["MongoDB", "MySQL", "SQL Server", "PostgreSQL"] },
+    { "name": "Herramientas", "keywords": ["Git", "Jira", "Slack", "Docker", "Docker Compose"] }
+  ],
+  "languages": [
+    { "language": "Español", "fluency": "Nativo" },
+    { "language": "Inglés", "fluency": "Básico" }
+  ],
+  "projects": [
+    { "name": "Yafuzgame", "description": "Juego NFT con token YAZ. Microservicios, WebSockets, 100 M USD capital.", "url": "https://presale.yafuzgame.io", "keywords": ["Solidity", "Web3", "Nest.js", "Docker", "AWS", "Next.js"], "startDate": "2021-06", "endDate": "2022-07" }
+  ]
+}
